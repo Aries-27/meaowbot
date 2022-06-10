@@ -212,7 +212,7 @@ ZeroTwoInc.sendMessage(m.chat, buttonMessage)
 			try {
 				ppUrl = await ZeroTwoInc.getProfilePicture(num)
 				} catch {
-					ppUrl = 'https://i.ibb.co/6BRf4Rc/Hans-Bot-No-Profile.png'
+					ppUrl = 'https://i.ibb.co/HHwjQ70/20211022-120918.jpg'
 				}
 				img = await getBuffer(ppUrl)
 				teks = `[ DEMOTE - DETECTED ]\n\nName : @${orgnye.split("@")[0]}\nStatus : Admin -> Member\nGroup : ${mdata.subject}`
