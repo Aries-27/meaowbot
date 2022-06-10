@@ -1,5 +1,5 @@
 {
-  "name": "Zero Two Bot",
+  "name": "Meaow Bot",
   "version": "1.0.0",
   "description": "Multi device wa bot created by Team Zero Two.",
   "main": "index.js",
@@ -84,7 +84,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fantox001/Zero-Two-Md.git"
+    "url": "git+https://github.com/Aries-27/meaowbot.git"
   },
   "bugs": {
     "url": "https://github.com/Fantox001/Zero-Two-Md/issues"
